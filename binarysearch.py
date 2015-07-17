@@ -1,4 +1,4 @@
-# -*- coding: <encoding name> -*-
+# -*- coding: <utf-8> -*-
 list_st = raw_input('Please input an Orderly sequence:')#从小到大顺序
 list_a = eval(list_st)
 aid_val = int(raw_input('Please input number your need:'))
